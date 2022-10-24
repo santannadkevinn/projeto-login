@@ -11,6 +11,7 @@
         float: left;
         width: 30%;
         height: 100%;
+        background-position: right top;
     }
     section#login > div#form {
         float: right;
